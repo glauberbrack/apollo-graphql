@@ -1,0 +1,7 @@
+{
+  "author": "Glauber Brack - glauber@brack.com.br",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "graphql": "^16.6.0"
+  }
+}
